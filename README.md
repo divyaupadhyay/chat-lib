@@ -1,6 +1,6 @@
 # PadrinoTutorial::ChatLib
 
-{<img src="https://api.travis-ci.org/padrino-tutorial/chat-lib.svg" alt="Build Status" />}[https://travis-ci.org/padrino-tutorial/chat-lib]
+[<img src="https://api.travis-ci.org/padrino-tutorial/chat-lib.svg" alt="Build Status" />](https://travis-ci.org/padrino-tutorial/chat-lib)
 
 [padrino-tutorial/getting-started](https://github.com/padrino-tutorial/getting-started/blob/master/README.md)
 
